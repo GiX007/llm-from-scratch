@@ -58,7 +58,7 @@ The emphasis is on **clarity and intuition**, not scale or performance.
 ---
 
 ## References / Inspired By
-- *Attention Is All You Need* — Vaswani et al.  
+- *Attention Is All You Need* 
 - *Language Models are Unsupervised Multitask Learners* (GPT-2)  
 - Andrej Karpathy’s **minGPT** and **nanoGPT**  
 - Sebastian Raschka's book *Build a Large Language Model (from Scratch)*
